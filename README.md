@@ -1,5 +1,7 @@
 # Assignment 2 Instructions
 
+**Deadline: March 29th 11:59pm EST + 1 hour grace period for technical issues per syllabus**
+
 ## Overview
 
 In this project, you will be required to design a working software application based on specifications provided (mimicking the sort of specifications you may receive from a real-life client).
