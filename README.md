@@ -1,6 +1,6 @@
 # Assignment 2 Instructions
 
-**Deadline: March 29th 11:59pm EST + 1 hour grace period for technical issues per syllabus**
+**Deadline: March 29th 11:59pm EST**
 
 ## Overview
 
